@@ -90,9 +90,9 @@
 ## 6️⃣ Segment-Wise Analysis
 
 **Properties were analyzed across:**
-_Budget homes_
-_Mid-range homes_
-_Luxury homes_
+- _Budget homes_
+- _Mid-range homes_
+- _Luxury homes_
 - This helped in understanding different pricing behaviors across market segments.
 
 ## 7️⃣ Data Visualization Dashboard
@@ -125,8 +125,7 @@ b. Seaborn
 - Location limited to zipcode level
 - No predictive modeling included
 
-Assumptions:
+## **Assumptions:**
 
-Data reflects fair market conditions
-
-No major economic fluctuations during the period
+- Data reflects fair market conditions
+- No major economic fluctuations during the period
